@@ -5,4 +5,4 @@
 
 > 此处以文档形式展示,原因为图片过长可能无法在网页中直接打开
 
-![image](\imgs\response.jpg)
+![image](/imgs/response.jpg)

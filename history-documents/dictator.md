@@ -1,32 +1,32 @@
 > [!NOTE]
 > 本文件为一[腾讯文档备份](https://docs.qq.com/doc/DU1JOUGJqem5TWERw),此文件曾在[此处(**已不可见,被小麦群友集体举报下架**)](https://www.bilibili.com/read/cv21420010/)被首次公开提及.
-> 源文件(的副本)已置于 `\history-documents\public_documents` 内
+> 源文件(的副本)已置于 `/history-documents/public_documents` 内
 
 > **争议性内容警告⚠**
 
 # ICT服务器的猎奇环境与独裁者
 
-![image](\imgs\dictator\图片1.png)
+![image](/imgs/dictator/图片1.png)
 
 此人是服主，随随便便tp玩家，禁言，ban玩家，时间不长，自称开玩笑，实则就是拿玩家取乐，天天在群里艾特全体成员说”打不打CSGO“，半夜十二点在群里艾特全体“服务器玩的怎么样”，如果服务器真的有更新，停服维护之类的大事件当然可以艾特全体，干扰玩家游戏体验，拿玩家取乐，开玩笑不经过别人同意，没有任何正当性
 
 待不了就算了我就这样，这句话不仅坐实了他戏耍玩家，并且表现出毫无悔改之意，证明他做这些即使每次都有人不满，但还是没有感到任何愧疚
 
-![image](\imgs\dictator\图片2.png)
+![image](/imgs/dictator/图片2.png)
 
 我只想要个公平，而他们却急成这个样子
 
-![image](\imgs\dictator\图片3.png)
+![image](/imgs/dictator/图片3.png)
 
 公益服不意味着你就可以随便拿玩家取乐，这不单单是不负责的问题，这是道德问题了
 
 况且这个玩家素质也不好评价，跟他们没有关系的事，反倒操心起来还要帮忙开户，可能招的人就是按服主自己的样子招的
 
-![image](\imgs\dictator\图片4.png)
+![image](/imgs/dictator/图片4.png)
 
 这个时候我已经被禁言了，禁言了再骂，把别人嘴封住等于我赢了，有什么脸说改了啊，你还很自豪吗，任何一个服务器随随便便戏弄玩家也不可能是对的，这是道德问题
 
-![image](\imgs\dictator\图片5.png)
+![image](/imgs/dictator/图片5.png)
 
 我在很多服务器都写过宣言，很多人很友善也很欢迎，因为这不是政治敏感内容，这种情况还是第一次遇见
 
@@ -34,9 +34,9 @@
 
 这是团子发的宣言，已经获得了63万播放量https://www.bilibili.com/video/
 
-![image](\imgs\dictator\图片6.png)
+![image](/imgs/dictator/图片6.png)
 
-![image](\imgs\dictator\图片7.png)
+![image](/imgs/dictator/图片7.png)
 
 ## 一个人，一个中国人，如此害怕宣言，如此害怕党[^1]
 
@@ -44,7 +44,7 @@ ___
 
 以下是**补充内容**,来自:ICT大群精华消息
 
-![image](\imgs\dictator\extra.jpg)
+![image](/imgs/dictator/extra.jpg)
 
 小麦只将这一段消息设置为了精华消息,其用意不必多说自然是**挂人+嘲讽**,但即便如此足以证明其***脾气之暴燥与独裁性质***.
 

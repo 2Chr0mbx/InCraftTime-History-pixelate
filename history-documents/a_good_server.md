@@ -7,12 +7,12 @@
 
 主播门这个服务器真的太棒了，7月玩的和小伙伴们玩的很融洽，11月被神权，小伙伴们和byd的几乎都被神权了，需要证据联系我 私信太多直接发这里了让大家看看他的嘴脸
 
-![image 01](\imgs\a_good_server\01.jpg)
-![image 02](\imgs\a_good_server\02.jpg)
-![image 03](\imgs\a_good_server\03.jpg)
-![image 04](\imgs\a_good_server\04.jpg)
-![image 05](\imgs\a_good_server\05.jpg)
-![image 06](\imgs\a_good_server\06.jpg)
-![image 07](\imgs\a_good_server\07.jpg)
+![image 01](/imgs/a_good_server/01.jpg)
+![image 02](/imgs/a_good_server/02.jpg)
+![image 03](/imgs/a_good_server/03.jpg)
+![image 04](/imgs/a_good_server/04.jpg)
+![image 05](/imgs/a_good_server/05.jpg)
+![image 06](/imgs/a_good_server/06.jpg)
+![image 07](/imgs/a_good_server/07.jpg)
 
 

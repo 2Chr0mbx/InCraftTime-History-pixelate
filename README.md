@@ -5,7 +5,7 @@ ___
 
 ### 1- 这是啥 (What is it)
 
-如仓库名所述，InCraftTime-History 致力于收集 `InCraftTime Server` 的历史资料(~~当然是黑料合集~~) , 以便任何 好奇服务器历史 / 想要黑料取证 / ~~单纯吃瓜~~ 的玩家随时调取查阅.
+如仓库名所述，InCraftTime-History 致力于收集 `InCraftTime Server` 的历史资料(~~当然是黑料合集~~) , 以便任何 好奇服务器历史 \ 想要黑料取证 \ ~~单纯吃瓜~~ 的玩家随时调取查阅.
 
 ### 2- 什么是ICT (What is ICT)
 

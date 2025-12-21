@@ -8,15 +8,15 @@ InCraftTime服务器,简称ICT,是一个长期以来以**原版公益纯净**为
 
 1.论坛宣传:此服务器最初在网上可找的宣传记录为一篇发布在 `MCBBS(已死)` 论坛上的宣传贴,发布时间2020.06.28 此处贴出[帖子备份链](https://archives.mcbbs.co/read.php?tid=1069225)
 
-![image](\imgs\promotion\01.png)
+![image](/imgs/promotion/01.png)
 
 随后在2021.07.22此服务器宣传帖被举报,理由为:**出售称号不属于公益服** 此处贴出[帖子备份链](https://archives.mcbbs.co/read.php?tid=1229511)
 
-![image](\imgs\promotion\02.png)
+![image](/imgs/promotion/02.png)
 
 2.贴吧宣传:2021.02.15,ICT服务器在一名为["回复：【服务器发布】我的世界吧 [2020/冬春] 服务器发帖(位于203楼)"](https://tieba.baidu.com/p/6807483909?pid=137942370295&cid=0#137942370295)的贴吧发帖下方进行宣传
 
-![image](\imgs\promotion\tieba.png)
+![image](/imgs/promotion/tieba.png)
 
 3.BiliBili视频平台宣传:此服务器最主要的宣传方式,在b站发布大量视频宣传,并注明了**纯净公益**,服务器[官方账号](https://space.bilibili.com/515268644)
 此处列举此账号的曾用名
