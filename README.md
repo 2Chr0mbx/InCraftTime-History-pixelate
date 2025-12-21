@@ -40,17 +40,17 @@ ___
 >注意:以下内容按照时间顺序排序,并会尽量注明文件创建时间!
 >非必要将不会对历史文件内内容进行补充说明或保护性处理!
 
-[ICT服务器的猎奇环境与独裁者[2023.01.26]](\history-documents\dictator.md)
+[ICT服务器的猎奇环境与独裁者[2023.01.26]](history-documents/dictator.md)
 
-[主播们这个服务器真是太好玩了[2023.01.29]](\history-documents\a_good_server.md)
+[主播们这个服务器真是太好玩了[2023.01.29]](history-documents/a_good_server.md)
 
-[我冲你了?[2023.02.02]](\history-documents\what.md)
+[我冲你了?[2023.02.02]](history-documents/what.md)
 
-[各位想玩纯净生存服务器的话注意一下这个服[2023.03.27]](history-documents\attention.md)
+[各位想玩纯净生存服务器的话注意一下这个服[2023.03.27]](history-documents/attention.md)
 
-[麦服小作文[2023]](\history-documents\composition.md)
+[麦服小作文[2023]](history-documents/composition.md)
 
-[论如何评价麦神[2023.4.25]](\history-documents\god_mai.md)
+[论如何评价麦神[2023.4.25]](history-documents/god_mai.md)
 
 
 
