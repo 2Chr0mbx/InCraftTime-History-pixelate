@@ -54,6 +54,9 @@ ___
 
 [PaperCard服务器的诞生与ICT的黑料[2023.11.06]](https://pan90.github.io/anti-ict/)
 
+#### 评论/对话与个人看法 (New documents)
+
+[关于InCraftTime服务器](documents/关于InCraftTime服务器.md)
 
 
 
