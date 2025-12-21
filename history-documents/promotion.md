@@ -8,7 +8,7 @@ InCraftTime服务器,简称ICT,是一个长期以来以**原版公益纯净**为
 
 1.论坛宣传:此服务器最初在网上可找的宣传记录为一篇发布在 `MCBBS(已死)` 论坛上的宣传贴,发布时间2020.06.28 此处贴出[帖子备份链](https://archives.mcbbs.co/read.php?tid=1069225)
 
-![image](/history-documentsimgs/promotion/01.png)
+![image](/history-documents/imgs/promotion/01.png)
 
 随后在2021.07.22此服务器宣传帖被举报,理由为:**出售称号不属于公益服** 此处贴出[帖子备份链](https://archives.mcbbs.co/read.php?tid=1229511)
 
