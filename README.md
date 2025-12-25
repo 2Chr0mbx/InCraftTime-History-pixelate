@@ -50,6 +50,8 @@ ___
 
 [麦服小作文[2023]](history-documents/composition.md)
 
+[回应](history-documents/response.md)
+
 [论如何评价麦神[2023.4.25]](history-documents/god_mai.md)
 
 [PaperCard服务器的诞生与ICT的黑料[2023.11.06]](https://pan90.github.io/anti-ict/)
