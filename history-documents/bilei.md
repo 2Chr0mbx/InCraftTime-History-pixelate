@@ -71,6 +71,14 @@ ___
 服主眼看回应视频评论区形势不利，便立即开始**删评+拉黑**
 
 >ICT的第二次"捂嘴"
+>![image](/history-documents/imgs/bilei/del.jpg)
+>![image](/history-documents/imgs/bilei/report8.webp)
+>![image](/history-documents/imgs/bilei/block.png)
+
+
+在回应视频下方，同样有玩家反应服务器其他问题，但是也被**删评+拉黑**处理，此处举例服务器管理员操作不当kill @e但未妥善处理
+
+>服主：MInecraft的实体只有村民
 >![image](/history-documents/imgs/bilei/evaluate1.jpg)
 >![image](/history-documents/imgs/bilei/evaluate2.webp)
 
