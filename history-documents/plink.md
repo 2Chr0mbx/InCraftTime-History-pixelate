@@ -5,4 +5,4 @@
 
 > 原文件(的副本)已置于 `/history-documents/public_documents` 内
 
-![image](/history-documents/imgs/plink.png)
+![image](/history-documents/imgs/Plink.png)
