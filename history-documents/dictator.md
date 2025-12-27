@@ -1,6 +1,6 @@
 > [!NOTE]
 > 本文件为一[腾讯文档备份](https://docs.qq.com/doc/DU1JOUGJqem5TWERw),此文件曾在[此处(**已不可见,被小麦群友集体举报下架**)](https://www.bilibili.com/read/cv21420010/)被首次公开提及.
-> 源文件(的副本)已置于 `/history-documents/public_documents` 内
+> 原文件(的副本)已置于 `/history-documents/public_documents` 内
 
 > **争议性内容警告⚠**
 
